@@ -1,0 +1,23 @@
+{
+    "app": {
+        "port": 3550
+    },
+    "lists": [
+        {
+            "name": "discordbots.org",
+            "token": "",
+            "path": "/dbl"
+        },
+        {
+            "name": "divinediscordbotlist.com",
+            "token": "",
+            "path": "/ddbl"
+        }
+    ],
+    "webhook": {
+        "id": "",
+        "avatar": "https://cdn.discordapp.com/attachments/472140661685092372/609366991462989824/appointment-reminders.png",
+        "name": "Notifier",
+        "token": ""
+    }
+}

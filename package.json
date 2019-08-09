@@ -1,0 +1,16 @@
+{
+  "name": "botlists-webhooks",
+  "version": "1.0.0",
+  "description": "A simple WebServer for botlists webhooks",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Sworder71",
+  "license": "MIT",
+  "dependencies": {
+    "discord-whook.js": "0.0.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
